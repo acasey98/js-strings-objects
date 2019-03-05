@@ -16,3 +16,9 @@ if(num < 21){
 printToDom('thirsty',iAmThursty(77));
 printToDom('thirsty',iAmThursty(55));
 printToDom('thirsty',iAmThursty(16));
+
+console.log(1 === '1');
+console.log(1 !== '2');
+console.log('cats'.length);
+const quote = 'winter is coming';
+console.log(quote.indexOf('is'));
